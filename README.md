@@ -1,0 +1,1 @@
+# GMA2-Excel-to-LTCPool
